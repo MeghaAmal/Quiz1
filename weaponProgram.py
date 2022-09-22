@@ -76,7 +76,6 @@ for weapon_name,speed,range1 in content:
 print()
 print("************Printing Weapon Name and Bullet Count using Dictionary**************")
 for name ,no_of_bullets in weapons_dict.items():
-    
     print('Name:',name,'Bullets',no_of_bullets)
 
 
